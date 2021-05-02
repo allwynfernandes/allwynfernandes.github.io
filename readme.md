@@ -1,1 +1,1 @@
-cloned empty website public repo
+Blog static folder
