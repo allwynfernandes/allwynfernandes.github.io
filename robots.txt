@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://allwynfernandes.github.io/sitemap.xml
