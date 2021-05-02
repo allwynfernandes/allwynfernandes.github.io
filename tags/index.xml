@@ -5,9 +5,82 @@
     <link>https://allwynfernandes.github.io/tags/</link>
     <description>Recent content in Tags on Allwyn Fernandes</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://allwynfernandes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bash</title>
+      <link>https://allwynfernandes.github.io/tags/bash/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://allwynfernandes.github.io/tags/github/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://allwynfernandes.github.io/tags/hugo/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leaf</title>
+      <link>https://allwynfernandes.github.io/tags/leaf/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/tags/leaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://allwynfernandes.github.io/tags/linux/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scripting</title>
+      <link>https://allwynfernandes.github.io/tags/scripting/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/tags/scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://allwynfernandes.github.io/tags/ubuntu/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://allwynfernandes.github.io/tags/writing/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/tags/writing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

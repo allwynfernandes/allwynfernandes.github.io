@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Allwyn Fernandes</title>
+    <link>https://allwynfernandes.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Allwyn Fernandes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://allwynfernandes.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A bash script to automatically deploy your Hugo site and commit the blog files to a github repo</title>
+      <link>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</guid>
+      <description>I have been looking on the internet for quite a while for a half decent bash script to deploy my hugo site and commit the blog related files to github. I couldn&amp;rsquo;t find much. Just a few YouTubers sharing their hacky idea around the topic. I must say though that they did help me quite a bit. I ended up creating my own script. I thought I&amp;rsquo;d share it since it might help others stuck in this space.</description>
+    </item>
+    
+  </channel>
+</rss>
