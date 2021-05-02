@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Deploy hugo site and commit to github with a simple bash script</title>
-      <link>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</link>
-      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</guid>
-      <description>I have been looking on the internet for quite a while for a half decent bash script to deploy my hugo site and commit the blog related files to github. I couldn&amp;rsquo;t find much. Just a few YouTubers sharing their hacky idea around the topic. I must say though that they did help me quite a bit. I ended up creating my own script. I thought I&amp;rsquo;d share it since it might help others stuck in this space.</description>
-    </item>
-    
-    <item>
       <title>Write simply then simply write</title>
       <link>https://allwynfernandes.github.io/write-simply/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
@@ -27,6 +18,15 @@
       <guid>https://allwynfernandes.github.io/write-simply/</guid>
       <description>It&amp;rsquo;s kind of difficult to write what you think. The brain is a mess of ideas, plans and desires. Broken thoughts are abound. It&amp;rsquo;s easier to instead write as you speak. Assuming speaking comes naturally to you.
 I dont speak a lot with people. I&amp;rsquo;ve got a limited set of friends with whom I interact in limited ways. However, I seem to speak a lot with myself. Most of the thoughts and ramblings posted on this blog and the countless others in the journal come from that tête-à-tête</description>
+    </item>
+    
+    <item>
+      <title>Deploy hugo site and commit to github with a simple bash script</title>
+      <link>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</guid>
+      <description>I have been looking on the internet for quite a while for a half decent bash script to deploy my hugo site and commit the blog related files to github. I couldn&amp;rsquo;t find much. Just a few YouTubers sharing their hacky idea around the topic. I must say though that they did help me quite a bit. I ended up creating my own script. I thought I&amp;rsquo;d share it since it might help others stuck in this space.</description>
     </item>
     
   </channel>

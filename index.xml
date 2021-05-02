@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Deploy hugo site and commit to github with a simple bash script</title>
-      <link>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</link>
-      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</guid>
-      <description>I have been looking on the internet for quite a while for a half decent bash script to deploy my hugo site and commit the blog related files to github. I couldn&amp;rsquo;t find much. Just a few YouTubers sharing their hacky idea around the topic. I must say though that they did help me quite a bit. I ended up creating my own script. I thought I&amp;rsquo;d share it since it might help others stuck in this space.</description>
-    </item>
-    
-    <item>
       <title>Write simply then simply write</title>
       <link>https://allwynfernandes.github.io/write-simply/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
@@ -30,12 +21,12 @@ I dont speak a lot with people. I&amp;rsquo;ve got a limited set of friends with
     </item>
     
     <item>
-      <title></title>
-      <link>https://allwynfernandes.github.io/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Deploy hugo site and commit to github with a simple bash script</title>
+      <link>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://allwynfernandes.github.io/archives/</guid>
-      <description></description>
+      <guid>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</guid>
+      <description>I have been looking on the internet for quite a while for a half decent bash script to deploy my hugo site and commit the blog related files to github. I couldn&amp;rsquo;t find much. Just a few YouTubers sharing their hacky idea around the topic. I must say though that they did help me quite a bit. I ended up creating my own script. I thought I&amp;rsquo;d share it since it might help others stuck in this space.</description>
     </item>
     
     <item>
@@ -45,6 +36,15 @@ I dont speak a lot with people. I&amp;rsquo;ve got a limited set of friends with
       
       <guid>https://allwynfernandes.github.io/tags/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://allwynfernandes.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://allwynfernandes.github.io/archives/</guid>
+      <description>archives</description>
     </item>
     
     <item>
