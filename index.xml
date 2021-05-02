@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>A bash script to automatically deploy your Hugo site and commit the blog files to a github repo</title>
+      <title>Deploy hugo site and commit to github with a simple bash script</title>
       <link>https://allwynfernandes.github.io/deploy-hugo-site-bash-script/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
