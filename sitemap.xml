@@ -3,14 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://allwynfernandes.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://allwynfernandes.github.io/vibe/</loc>
-  </url>
-  
-  <url>
     <loc>https://allwynfernandes.github.io/write-simply/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url>
@@ -81,6 +73,10 @@
   </url>
   
   <url>
+    <loc>https://allwynfernandes.github.io/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://allwynfernandes.github.io/archives/</loc>
   </url>
   
@@ -90,6 +86,10 @@
   
   <url>
     <loc>https://allwynfernandes.github.io/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://allwynfernandes.github.io/vibe/</loc>
   </url>
   
 </urlset>
